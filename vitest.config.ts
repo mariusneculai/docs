@@ -1,4 +1,4 @@
-export default {
+export default {1
   test: {
     // Default is `['**/*.{test,spec}.?(c|m)[jt]s?(x)']`
     include: ['**/*.{test}.?(c|m)[jt]s?(x)', 'src/**/tests/*.[jt]s', 'src/**/tests/**/*.[jt]s'],
